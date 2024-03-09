@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(255, 143, 249 );
+}
+
+.text1{
+    text-align: center;
+    font-size: 30px;
+    font: italic;
+}
+
+.nkar1{
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    top: -297px;
+    left: 15px;
+}
+
+.text2{
+    font-size: larger;
+    font: italic;
+    position: relative;
+    top: 60px;
+    left: 300px;
+    width: 950px;
+}
+
+.nkar2{
+    height: 200px;
+    border-radius: 10px;
+    position: relative;
+    top: -87px;
+    left: 605px;
+}
+
+
+.text3{
+    font-size: large;
+    font: italic;
+    position: relative;
+    top: 120px;
+    left: 90px;
+    width: 970px;
+}
+
+.text4{
+    font-size: large;
+    font: italic;
+    position: relative;
+    top: 140px;
+    left: 90px;
+    width: 970px;
+}
